@@ -1,0 +1,75 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm/
+arm64/
+bin/
+obj/
+publish/
+
+# Visual Studio temporary files, backups, and
+# build results
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.symbols.nupkg
+*.nupkg.meta
+
+# Environment variables
+.env
+
+# DotNet Core global tools
+dotnet-tools.json
+
+# Other files
+*.db
+*.pdb
+*.mdb
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+*.tlog
+*.trx
+
+# Coverlet
+coverage*
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Other directories
+node_modules/
+
+# Ignorar configuraciones específicas de entorno
+appsettings.Development.json
