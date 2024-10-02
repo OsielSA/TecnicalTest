@@ -3,7 +3,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TecnicalTestApi.Models
 {
-    [Table("EmployeesStatus")]
     public class EmployeeStatus
     {
         [Key]

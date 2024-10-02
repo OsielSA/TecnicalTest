@@ -10,6 +10,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Services.AddScoped<EmployeeService>();
+builder.Services.AddScoped<EmployeeStatusService>();
+builder.Services.AddScoped<PositionService>();
 
 //Swagger services
 builder.Services.AddEndpointsApiExplorer();

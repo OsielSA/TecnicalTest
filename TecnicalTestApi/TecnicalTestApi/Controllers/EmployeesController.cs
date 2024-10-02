@@ -16,17 +16,23 @@ namespace TecnicalTestApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetEmployees([FromQuery] string filterName = null, [FromQuery] int? positionId = null)
+        public async Task<IActionResult> GetEmployees([FromQuery] string filterName = null, [FromQuery] string position = null)
         {
-            var employees = await _employeeService.GetEmployeesAsync(filterName, positionId);
+            var employees = await _employeeService.GetEmployeesAsync(filterName, position);
             return Ok(employees);
         }
-
-        [HttpGet("statuses")]
-        public async Task<ActionResult<List<EmployeeStatus>>> GetEmployeeStatuses()
+        [HttpPost("SaveEmployee")]
+        public async Task<IActionResult> SaveEmployee(Employee employee)
         {
-            var statuses = await _employeeService.GetEmployeeStatusesAsync();
-            return Ok(statuses);
+            await _employeeService.SaveEmployee(employee);
+            return Ok(new { message = "Employee saved successfully" });
         }
+        [HttpPost("SetEmployeeStatus")]
+        public async Task<IActionResult> SetEmployeeStatus(int employeeId, int statusId)
+        {
+            await _employeeService.SetEmployeeStatus(employeeId, statusId);
+            return Ok(new { message = "Employee status updated successfully" });
+        }
+
     }
 }
