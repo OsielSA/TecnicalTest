@@ -82,21 +82,16 @@ namespace TecnicalTestApi.Data
 
 
         //Employee Methods
-        public async Task<List<Employee>> GetEmployeesAsync(string filterName = null, string? positionName = null)
+        public async Task<List<Employee>> GetEmployeesAsync(string filterName = null, string? positionName = null, int? statusId = null)
         {
             var filterNameParam = new Npgsql.NpgsqlParameter("in_filter_name", filterName ?? String.Empty);
             var positionParam = new Npgsql.NpgsqlParameter("in_position_name", positionName ?? String.Empty);
+            var statusParam = new Npgsql.NpgsqlParameter("in_status_id", statusId.HasValue ? (object)statusId.Value : DBNull.Value);
 
-            // Llamada a la función almacenada con parámetros
             return await this.Set<Employee>()
-                             .FromSqlRaw("SELECT * FROM get_employees(@in_filter_name, @in_position_name)", filterNameParam, positionParam)
+                             .FromSqlRaw("SELECT * FROM get_employees(@in_filter_name, @in_position_name, @in_status_id)", filterNameParam, positionParam, statusParam)
                              .ToListAsync();
         }
-
-
-
-
-
         public async Task SaveEmployeeAsync(Employee employee)
         {
             var employeeIdeParam = new Npgsql.NpgsqlParameter("in_employee_id", employee.EmployeeId);
@@ -106,20 +101,16 @@ namespace TecnicalTestApi.Data
             var positionIdParam = new Npgsql.NpgsqlParameter("in_position_id", employee.PositionId);
             var statusIdParam = new Npgsql.NpgsqlParameter("in_status_id", employee.StatusId);
 
-            // Llamada a la función almacenada con parámetros
             await this.Database.ExecuteSqlRawAsync(
                 "CALL public.save_employee(@in_employee_id, @in_firstname, @in_lastname, @in_description, @in_position_id, @in_status_id)",
                 employeeIdeParam, firstNameParam, lastNameParam, descriptionParam, positionIdParam, statusIdParam
             );
         }
-
-
         public async Task SetEmployeeStatusAsync(int employeeId, int statusId)
         {
             var employeeIdParam = new Npgsql.NpgsqlParameter("in_employee_id", employeeId);
             var statusIdParam = new Npgsql.NpgsqlParameter("in_status_id", statusId);
 
-            // Llamada a la función almacenada con parámetros
             await this.Database.ExecuteSqlRawAsync("CALL set_employeestatus(@in_employee_id, @in_status_id)",
                 employeeIdParam, statusIdParam);
         }

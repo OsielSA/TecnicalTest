@@ -78,7 +78,14 @@ order by status, employee_id
 
 
 
+select * from public.Employees
+order by status_id desc, employee_id
 
+
+
+
+select * from public.EmployeesStatus
+order by status_id desc, employee_id
 
 
 

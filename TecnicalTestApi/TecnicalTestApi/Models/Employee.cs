@@ -22,9 +22,5 @@ namespace TecnicalTestApi.Models
         public int StatusId { get; set; }
         [JsonIgnore]
         public DateTime RegistrationDate { get; set; }
-
-        // Relaciones
-        //public Position Position { get; set; }
-        //public EmployeeStatus Status { get; set; }
     }
 }

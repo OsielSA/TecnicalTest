@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\models\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\models\\employeestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\services\\employeestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\services\\employeestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\controllers\\employeestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\controllers\\employeestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|c:\\mac\\home\\documents\\proyectos\\tecnicaltest\\tecnicaltestapi\\tecnicaltestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4691FA49-96AE-4D0E-B920-9E674D4CA7D4}|TecnicalTestApi\\TecnicalTestApi.csproj|solutionrelative:tecnicaltestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,59 +54,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\appsettings.Development.json",
-              "RelativeToolTip": "TecnicalTestApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T11:04:48.694Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\appsettings.json",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\appsettings.json",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\appsettings.json",
-              "RelativeToolTip": "TecnicalTestApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T11:04:04.51Z",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\Employee.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T12:02:48.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TecnicalTestApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABoAAADAz8zMzMwgwC0AAAA/AAAAAAAAAA==",
+              "Title": "EmployeeStatus.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeStatus.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Models\\EmployeeStatus.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeStatus.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Models\\EmployeeStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:35:02.002Z",
+              "WhenOpened": "2024-10-02T12:02:46.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "TecnicalTestApi\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAQAAADA//////8PwBsAAABKAAAAAAAAAA==",
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Models\\Position.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\Position.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:22:22.883Z",
+              "WhenOpened": "2024-10-02T12:02:43.926Z",
               "EditorCaption": ""
             },
             {
@@ -101,35 +103,100 @@
               "RelativeDocumentMoniker": "TecnicalTestApi\\Services\\EmployeeService.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Services\\EmployeeService.cs",
               "RelativeToolTip": "TecnicalTestApi\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAgAAABAl5mZmZkVwBYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:21:12.595Z",
+              "WhenOpened": "2024-10-02T12:02:41.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmployeeStatus.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeStatus.cs",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\Models\\EmployeeStatus.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeStatus.cs",
-              "RelativeToolTip": "TecnicalTestApi\\Models\\EmployeeStatus.cs",
-              "ViewState": "AgIAAAAAAAAANDMzMzPrvwkAAAAdAAAAAAAAAA==",
+              "Title": "EmployeeStatusService.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Services\\EmployeeStatusService.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Services\\EmployeeStatusService.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Services\\EmployeeStatusService.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Services\\EmployeeStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:39:54.272Z",
+              "WhenOpened": "2024-10-02T12:02:39.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "TecnicalTestApi\\Models\\EmployeeDto.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Models\\EmployeeDto.cs",
-              "RelativeToolTip": "TecnicalTestApi\\Models\\EmployeeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Title": "PositionService.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Services\\PositionService.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Services\\PositionService.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Services\\PositionService.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Services\\PositionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:09:55.285Z",
+              "WhenOpened": "2024-10-02T12:02:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACsAAAAAxMzMzMwbwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:42:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Program.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABkvSIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T02:57:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TecnicalTestApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T02:44:28.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAABgAAAAAAQAAAMAowBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:58:14.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeStatusController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\EmployeeStatusController.cs",
+              "RelativeDocumentMoniker": "TecnicalTestApi\\Controllers\\EmployeeStatusController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\PROYECTOS\\TecnicalTest\\TecnicalTestApi\\TecnicalTestApi\\Controllers\\EmployeeStatusController.cs",
+              "RelativeToolTip": "TecnicalTestApi\\Controllers\\EmployeeStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:58:10.809Z",
               "EditorCaption": ""
             }
           ]

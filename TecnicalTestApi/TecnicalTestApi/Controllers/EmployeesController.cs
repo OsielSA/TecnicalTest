@@ -16,9 +16,9 @@ namespace TecnicalTestApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetEmployees([FromQuery] string filterName = null, [FromQuery] string position = null)
+        public async Task<IActionResult> GetEmployees([FromQuery] string filterName = null, [FromQuery] string position = null, [FromQuery] int? statusId = null)
         {
-            var employees = await _employeeService.GetEmployeesAsync(filterName, position);
+            var employees = await _employeeService.GetEmployeesAsync(filterName, position, statusId);
             return Ok(employees);
         }
         [HttpPost("SaveEmployee")]

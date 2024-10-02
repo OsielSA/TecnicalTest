@@ -13,9 +13,9 @@ namespace TecnicalTestApi.Services
             _context = context;
         }
 
-        public async Task<List<Employee>> GetEmployeesAsync(string filterName = null, string position = null)
+        public async Task<List<Employee>> GetEmployeesAsync(string filterName = null, string position = null, int? status_id = null)
         {
-            return await _context.GetEmployeesAsync(filterName, position);
+            return await _context.GetEmployeesAsync(filterName, position, status_id);
         }
         public async Task SaveEmployee(Employee employee)
         {
